@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/chemportfolio/static/css/main.a8bb9c27.chunk.css",
-    "main.js": "/chemportfolio/static/js/main.802290de.chunk.js",
-    "main.js.map": "/chemportfolio/static/js/main.802290de.chunk.js.map",
-    "runtime-main.js": "/chemportfolio/static/js/runtime-main.5078c58c.js",
-    "runtime-main.js.map": "/chemportfolio/static/js/runtime-main.5078c58c.js.map",
-    "static/js/2.9a76e395.chunk.js": "/chemportfolio/static/js/2.9a76e395.chunk.js",
-    "static/js/2.9a76e395.chunk.js.map": "/chemportfolio/static/js/2.9a76e395.chunk.js.map",
-    "static/js/3.db465834.chunk.js": "/chemportfolio/static/js/3.db465834.chunk.js",
-    "static/js/3.db465834.chunk.js.map": "/chemportfolio/static/js/3.db465834.chunk.js.map",
-    "index.html": "/chemportfolio/index.html",
-    "static/css/main.a8bb9c27.chunk.css.map": "/chemportfolio/static/css/main.a8bb9c27.chunk.css.map",
-    "static/js/2.9a76e395.chunk.js.LICENSE.txt": "/chemportfolio/static/js/2.9a76e395.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/chemportfolio/static/media/logo.6ce24c58.svg"
+    "main.css": "/chemproject/static/css/main.a8bb9c27.chunk.css",
+    "main.js": "/chemproject/static/js/main.802290de.chunk.js",
+    "main.js.map": "/chemproject/static/js/main.802290de.chunk.js.map",
+    "runtime-main.js": "/chemproject/static/js/runtime-main.6c2067b8.js",
+    "runtime-main.js.map": "/chemproject/static/js/runtime-main.6c2067b8.js.map",
+    "static/js/2.9a76e395.chunk.js": "/chemproject/static/js/2.9a76e395.chunk.js",
+    "static/js/2.9a76e395.chunk.js.map": "/chemproject/static/js/2.9a76e395.chunk.js.map",
+    "static/js/3.db465834.chunk.js": "/chemproject/static/js/3.db465834.chunk.js",
+    "static/js/3.db465834.chunk.js.map": "/chemproject/static/js/3.db465834.chunk.js.map",
+    "index.html": "/chemproject/index.html",
+    "static/css/main.a8bb9c27.chunk.css.map": "/chemproject/static/css/main.a8bb9c27.chunk.css.map",
+    "static/js/2.9a76e395.chunk.js.LICENSE.txt": "/chemproject/static/js/2.9a76e395.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/chemproject/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5078c58c.js",
+    "static/js/runtime-main.6c2067b8.js",
     "static/js/2.9a76e395.chunk.js",
     "static/css/main.a8bb9c27.chunk.css",
     "static/js/main.802290de.chunk.js"
