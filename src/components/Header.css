@@ -1,0 +1,19 @@
+.text{
+    font-size:20px;
+    text-align: center;
+    font-family:unset;
+    color: green;
+}
+.image{
+  margin: auto;
+  width: 60%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.subtext{
+    color:white;
+    font-size: 14px;
+}
+.names{
+    font-size: 10px;
+}

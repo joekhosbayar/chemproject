@@ -1,0 +1,8 @@
+.header{
+    background: linear-gradient(to right,red, orange , yellow, green, cyan, blue, violet,purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 75px;
+    line-height: 60px;
+    font-size: 35px;
+}
