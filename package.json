@@ -2,7 +2,7 @@
   "name": "chemproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://joekhosbayar.github.io/chemportfolio",
+  "homepage": "http://joekhosbayar.github.io/chemproject",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
     "@testing-library/react": "^11.2.7",
